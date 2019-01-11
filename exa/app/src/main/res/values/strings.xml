@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tema4</string>
+    <string name="quicktrade">QuickTrade</string>
+    <string name="email">Email:</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="datos_del_usuario">Datos del Usuario</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_de_usuario">Nombre de Usuario:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="dirrecci_n">Dirrección:</string>
+    <string name="enviar">Enviar</string>
+</resources>
